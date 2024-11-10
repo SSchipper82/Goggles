@@ -4,6 +4,7 @@
 ! author: SSchipper82
 
 $discard,site=walmart.com
+$discard,site=walmart.ca
 $discard,site=hobbylobby.com
 $discard,site=wayfair.com
 $discard,site=homedepot.com
