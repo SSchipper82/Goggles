@@ -1,0 +1,12 @@
+! name: Ethical Browsing
+! description: excludes boycotted sites from search results
+! public: false
+! author: SSchipper82
+
+$discard,site=amazon.com
+$discard,site=walmart.com
+$discard,site=hobbylobby.com
+$discard,site=wayfair.com
+$discard,site=homedepot.com
+$discard,site=twitter.com
+$discard,site=x.com
