@@ -3,10 +3,30 @@
 ! public: false
 ! author: SSchipper82
 
-$discard,site=amazon.com
 $discard,site=walmart.com
 $discard,site=hobbylobby.com
 $discard,site=wayfair.com
 $discard,site=homedepot.com
 $discard,site=twitter.com
 $discard,site=x.com
+$discard,site=amazon.com
+$discard,site=amazon.ca
+$discard,site=amazon.com.mx
+$discard,site=amazon.co.uk
+$discard,site=amazon.de
+$discard,site=amazon.fr
+$discard,site=amazon.it
+$discard,site=amazon.es
+$discard,site=amazon.nl
+$discard,site=amazon.se
+$discard,site=amazon.pl
+$discard,site=amazon.co.jp
+$discard,site=amazon.in
+$discard,site=amazon.com.au
+$discard,site=amazon.com.br
+$discard,site=amazon.sg
+$discard,site=amazon.com.tr
+$discard,site=amazon.ae
+$discard,site=amazon.sa
+$discard,site=amazon.eg
+$discard,site=amazon.cn
